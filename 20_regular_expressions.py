@@ -1,5 +1,4 @@
 import re
-import numpy
 
 
 my_string = "Esta es la leccion numero 20 Leccion"
